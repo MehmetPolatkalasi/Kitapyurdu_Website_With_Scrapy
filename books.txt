@@ -1,0 +1,600 @@
+--------------------------------------------------------
+1.
+Kitap İsmi : Gece Yarısı Kütüphanesi
+Yazar :  Matt Haig
+Yayınevi : DOMİNGO YAYINEVİ
+----------------------------------------------------------
+--------------------------------------------------------
+2.
+Kitap İsmi : Şeker Portakalı (Ciltsiz)
+Yazar :  Jose Mauro De Vasconcelos
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+3.
+Kitap İsmi : Ben, Kirke
+Yazar :  Madeline Miller
+Yayınevi : İTHAKİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+4.
+Kitap İsmi : Veronika Ölmek İstiyor
+Yazar :  Paulo Coelho
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+5.
+Kitap İsmi : Simyacı (Ciltsiz)
+Yazar :  Paulo Coelho
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+6.
+Kitap İsmi : Tiamat (Karton Kapak)
+Yazar :  İhsan Oktay Anar
+Yayınevi : EVEREST YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+7.
+Kitap İsmi : Cesur Yeni Dünya
+Yazar :  Aldous Huxley
+Yayınevi : İTHAKİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+8.
+Kitap İsmi : Fahrenheit 451
+Yazar :  Ray Bradbury
+Yayınevi : İTHAKİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+9.
+Kitap İsmi : 101 Deyim 101 Öykü
+Yazar :  Süleyman Bulut
+Yayınevi : CAN ÇOCUK YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+10.
+Kitap İsmi : Delifişek
+Yazar :  Jose Mauro De Vasconcelos
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+11.
+Kitap İsmi : Fareler ve İnsanlar
+Yazar :  John Steinbeck
+Yayınevi : SEL YAYINCILIK
+----------------------------------------------------------
+--------------------------------------------------------
+12.
+Kitap İsmi : Hayvan Çiftliği (Ciltsiz)
+Yazar :  George Orwell
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+13.
+Kitap İsmi : Aylak Adam
+Yazar :  Yusuf Atılgan
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+14.
+Kitap İsmi : Benim Zürafam Uçabilir
+Yazar :  Mert Arık
+Yayınevi : TİMAŞ ÇOCUK YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+15.
+Kitap İsmi : Zeytindağı
+Yazar :  Falih Rıfkı Atay
+Yayınevi : POZİTİF YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+16.
+Kitap İsmi : Kürk Mantolu Madonna
+Yazar :  Sabahattin Ali
+Yayınevi : YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+17.
+Kitap İsmi : Kırmızı Pazartesi
+Yazar :  Gabriel Garcia Marquez
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+18.
+Kitap İsmi : Saatleri Ayarlama Enstitüsü
+Yazar :  Ahmet Hamdi Tanpınar
+Yayınevi : DERGAH YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+19.
+Kitap İsmi : Uğultulu Tepeler
+Yazar :  Emily Bronte
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+20.
+Kitap İsmi : Ezbere Yaşayanlar & Vazgeçemediğimiz Alışkanlıklarımızın Kökenleri
+Yazar :  Emrah Safa Gürkan
+Yayınevi : KRONİK KİTAP
+----------------------------------------------------------
+--------------------------------------------------------
+21.
+Kitap İsmi : Medeniyet Tasavvuru & Fütuhat-ı Medeniyye'ye Giriş 
+Yazar :  Yusuf Kaplan
+Yayınevi : NESİL YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+22.
+Kitap İsmi : Martıya Uçmayı Öğreten Kedi
+Yazar :  Luis Sepulveda
+Yayınevi : CAN ÇOCUK YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+23.
+Kitap İsmi : Görmek
+Yazar :  Jose Saramago
+Yayınevi : KIRMIZI KEDİ YAYINEVİ
+----------------------------------------------------------
+--------------------------------------------------------
+24.
+Kitap İsmi : Atomik Alışkanlıklar
+Yazar :  James Clear
+Yayınevi : PEGASUS YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+25.
+Kitap İsmi : Başarısızlar Kulübü
+Yazar :  Anıl Basılı
+Yayınevi : TİMAŞ İLK GENÇ 
+----------------------------------------------------------
+--------------------------------------------------------
+26.
+Kitap İsmi : Zaman Bisikleti
+Yazar :  Bilgin Adalı
+Yayınevi : CAN ÇOCUK YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+27.
+Kitap İsmi : 101 Atasözü 101 Öykü
+Yazar :  Süleyman Bulut
+Yayınevi : CAN ÇOCUK YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+28.
+Kitap İsmi : İnsanın Anlam Arayışı
+Yazar :  Viktor Emil Frankl
+Yayınevi : OKUYAN US YAYIN
+----------------------------------------------------------
+--------------------------------------------------------
+29.
+Kitap İsmi : İslamiyet Öncesi Türkler
+Yazar : Prof. Dr. Ahmet Taşağıl
+Yayınevi : YEDİTEPE YAYINEVİ
+----------------------------------------------------------
+--------------------------------------------------------
+30.
+Kitap İsmi : İçimizdeki Şeytan
+Yazar :  Pelin Çift
+Yayınevi : YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+31.
+Kitap İsmi : Güneşi Uyandıralım
+Yazar :  Sabahattin Ali
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+32.
+Kitap İsmi : İki Şehrin Hikayesi
+Yazar :  Jose Mauro De Vasconcelos
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+33.
+Kitap İsmi : İnce Memed 1
+Yazar :  Charles Dickens
+Yayınevi : YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+34.
+Kitap İsmi : Derviş
+Yazar :  Yaşar Kemal
+Yayınevi : TİMAŞ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+35.
+Kitap İsmi : Kuyucaklı Yusuf
+Yazar :  Bahadır Yenişehirlioğlu
+Yayınevi : YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+36.
+Kitap İsmi : Geliştiren Anne-Baba
+Yazar :  Sabahattin Ali
+Yayınevi : KRONİK KİTAP
+----------------------------------------------------------
+--------------------------------------------------------
+37.
+Kitap İsmi : Pal Sokağı Çocukları
+Yazar :  Doğan Cüceloğlu
+Yayınevi : YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+38.
+Kitap İsmi : Kayıp Tanrılar Ülkesi
+Yazar :  Ferenc Molnar
+Yayınevi : YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+39.
+Kitap İsmi : Puslu Kıtalar Atlası
+Yazar :  Ahmet Ümit
+Yayınevi : İLETİŞİM YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+40.
+Kitap İsmi : Huzursuzluk
+Yazar :  İhsan Oktay Anar
+Yayınevi : DOĞAN KİTAP
+----------------------------------------------------------
+--------------------------------------------------------
+41.
+Kitap İsmi : Kitaplardan Korkan Çocuk
+Yazar :  Susanna Tamaro
+Yayınevi : CAN ÇOCUK YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+42.
+Kitap İsmi : Sırça Köşk
+Yazar :  Sabahattin Ali
+Yayınevi : YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+43.
+Kitap İsmi : İçimdeki Müzik 
+Yazar :  Sharon M. Draper
+Yayınevi : TİMAŞ GENÇ
+----------------------------------------------------------
+--------------------------------------------------------
+44.
+Kitap İsmi : Yeşil Peri Gecesi
+Yazar :  Ayfer Tunç
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+45.
+Kitap İsmi : Momo
+Yazar :  Michael Ende
+Yayınevi : PEGASUS YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+46.
+Kitap İsmi : Uçan Sınıf
+Yazar :  Erich Kastner
+Yayınevi : CAN ÇOCUK YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+47.
+Kitap İsmi : Jane Eyre
+Yazar :  Charlotte Brontë
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+48.
+Kitap İsmi : Dune
+Yazar :  Frank Herbert
+Yayınevi : İTHAKİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+49.
+Kitap İsmi : Tutunamayanlar / Bütün Eserleri 1
+Yazar :  Oğuz Atay
+Yayınevi : İLETİŞİM YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+50.
+Kitap İsmi : Bin Dokuz Yüz Seksen Dört - 1984 
+Yazar :  George Orwell
+Yayınevi : KAPRA YAYINCILIK
+----------------------------------------------------------
+--------------------------------------------------------
+51.
+Kitap İsmi : Düşün! Bir de Sağlıklı Düşün! (Lise ve Yetişkin Düzeyi)
+Yazar :  Yasin Ramazan
+Yayınevi : UFKA YOLCULUK
+----------------------------------------------------------
+--------------------------------------------------------
+52.
+Kitap İsmi : Çavdar Tarlasında Çocuklar
+Yazar :  J. D. Salinger
+Yayınevi : YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+53.
+Kitap İsmi : Akhilleus’un Şarkısı
+Yazar :  Madeline Miller
+Yayınevi : İTHAKİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+54.
+Kitap İsmi : Kalk Yerine Yat
+Yazar :  Şermin Yaşar
+Yayınevi : DOĞAN KİTAP
+----------------------------------------------------------
+--------------------------------------------------------
+55.
+Kitap İsmi : İnci
+Yazar :  John Steinbeck
+Yayınevi : SEL YAYINCILIK
+----------------------------------------------------------
+--------------------------------------------------------
+56.
+Kitap İsmi : Uçurtmam Bulut Şimdi
+Yazar :  Sevim Ak
+Yayınevi : CAN ÇOCUK YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+57.
+Kitap İsmi : Firavun İmanı / Toplu Eserleri 2
+Yazar :  Tarık Buğra
+Yayınevi : İLETİŞİM YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+58.
+Kitap İsmi : Cadının Yüreği
+Yazar :  Genevieve Gornichec
+Yayınevi : İTHAKİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+59.
+Kitap İsmi : Kiraz Ağacı ile Aramızdaki Mesafe
+Yazar :  Paola Peretti
+Yayınevi : TİMAŞ GENÇ
+----------------------------------------------------------
+--------------------------------------------------------
+60.
+Kitap İsmi : Gerçek Tıp & Yitik Şifanın İzinde
+Yazar :  Aidin Salih
+Yayınevi : YİTİK ŞİFA
+----------------------------------------------------------
+--------------------------------------------------------
+61.
+Kitap İsmi : Kurtlarla Koşan Kadınlar / Vahşi Kadın Arketipine Dair Mit ve Öyküler
+Yazar :  Clarissa Pinkola Estes
+Yayınevi : AYRINTI YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+62.
+Kitap İsmi : Seyir
+Yazar :  Piraye 
+Yayınevi : MONA
+----------------------------------------------------------
+--------------------------------------------------------
+63.
+Kitap İsmi : Deli İbram Divanı
+Yazar :  Ahmet Büke
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+64.
+Kitap İsmi : Balıkçı ve Oğlu
+Yazar :  Zülfü Livaneli
+Yayınevi : İNKILAP KİTABEVİ
+----------------------------------------------------------
+--------------------------------------------------------
+65.
+Kitap İsmi : Nasıl Dayandın Ya Rasulullah & Hayatını Değiştirecek Siyer
+Yazar :  Mehmet  Yıldız
+Yayınevi : TİMAŞ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+66.
+Kitap İsmi : Yaşamak
+Yazar :  Yu Hua 
+Yayınevi : JAGUAR KİTAP
+----------------------------------------------------------
+--------------------------------------------------------
+67.
+Kitap İsmi : Diriliş Neslinin Amentüsü
+Yazar :  Sezai Karakoç
+Yayınevi : DİRİLİŞ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+68.
+Kitap İsmi : Siddhartha (Ciltsiz)
+Yazar :  Hermann Hesse
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+69.
+Kitap İsmi : Kapak Kızı
+Yazar :  Ayfer Tunç
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+70.
+Kitap İsmi : Harry Potter ve Felsefe Taşı
+Yazar :  J. K. Rowling
+Yayınevi : YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+71.
+Kitap İsmi : Son Ada
+Yazar :  Zülfü Livaneli
+Yayınevi : DOĞAN KİTAP
+----------------------------------------------------------
+--------------------------------------------------------
+72.
+Kitap İsmi : Sahnenin Dışındakiler
+Yazar :  Ahmet Hamdi Tanpınar
+Yayınevi : DERGAH YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+73.
+Kitap İsmi : A-71
+Yazar : Prof. Dr. İskender Pala
+Yayınevi : KAPI YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+74.
+Kitap İsmi : Beyaz Zambaklar Ülkesinde
+Yazar :  Grigory Petrov
+Yayınevi : KAPRA YAYINCILIK
+----------------------------------------------------------
+--------------------------------------------------------
+75.
+Kitap İsmi : İnsan Vücudu Tiyatrosu
+Yazar :  Maris Wicks
+Yayınevi : DOMİNGO YAYINEVİ
+----------------------------------------------------------
+--------------------------------------------------------
+76.
+Kitap İsmi : Bir İdam Mahkumunun Son Günü
+Yazar :  Victor Hugo
+Yayınevi : KAPRA YAYINCILIK
+----------------------------------------------------------
+--------------------------------------------------------
+77.
+Kitap İsmi : Mutluluğu Kaybettiğin Yerde Arama
+Yazar :  Beyhan Budak
+Yayınevi : SAHİ KİTAP
+----------------------------------------------------------
+--------------------------------------------------------
+78.
+Kitap İsmi : Gizli İlimler Hazinesi
+Yazar :  Ömer Faruk İspir
+Yayınevi : LOPUS
+----------------------------------------------------------
+--------------------------------------------------------
+79.
+Kitap İsmi : Nohut Adam
+Yazar :  Anıl Basılı
+Yayınevi : TİMAŞ ÇOCUK YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+80.
+Kitap İsmi : Paranın Psikolojisi
+Yazar :  Morgan Housel
+Yayınevi : SCALA YAYINCILIK
+----------------------------------------------------------
+--------------------------------------------------------
+81.
+Kitap İsmi : Okçu'nun Yolu
+Yazar :  Paulo Coelho
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+82.
+Kitap İsmi : Matilda
+Yazar :  Roald Dahl
+Yayınevi : CAN ÇOCUK YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+83.
+Kitap İsmi : 30 Günde 10 Yıl
+Yazar : Prof. Dr. Yavuz Yörükoğlu
+Yayınevi : HAYY KİTAP
+----------------------------------------------------------
+--------------------------------------------------------
+84.
+Kitap İsmi : Charlie'nin Çikolata Fabrikası (Ciltsiz)
+Yazar :  Roald Dahl
+Yayınevi : CAN ÇOCUK YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+85.
+Kitap İsmi : Yorgun Savaşçı
+Yazar :  Kemal Tahir 
+Yayınevi : İTHAKİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+86.
+Kitap İsmi : Kehribar Geçidi
+Yazar : Prof. Dr. Nazan Bekiroğlu
+Yayınevi : TİMAŞ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+87.
+Kitap İsmi : Semerkant
+Yazar :  Amin Maalouf
+Yayınevi : YAPI KREDİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+88.
+Kitap İsmi : Kapra Felsefe Seti (10 Kitap)
+Yazar :  Sigmund Freud
+Yayınevi : KAPRA YAYINCILIK
+----------------------------------------------------------
+--------------------------------------------------------
+89.
+Kitap İsmi : Çetin Ceviz ve Çetonya
+Yazar :  Rene Descartes
+Yayınevi : FOM KİTAP
+----------------------------------------------------------
+--------------------------------------------------------
+90.
+Kitap İsmi : Dervişin Teselli Koleksiyonu & Doğu'dan Batı'dan 99 Teselli 
+Yazar :  Cicero 
+Yayınevi : HAYY KİTAP
+----------------------------------------------------------
+--------------------------------------------------------
+91.
+Kitap İsmi : KPSS ALES DGS Ezberbozan Paragraf Soru Bankası
+Yazar :  Tommasso Campanella
+Yayınevi : PEGEM AKADEMİ YAYINCILIK-SINAV KİTAPLARI
+----------------------------------------------------------
+--------------------------------------------------------
+92.
+Kitap İsmi : 2022 KPSS Tarih Tamamı Çözümlü Soru Bankası
+Yazar :  Francis Bacon
+Yayınevi : BENİM HOCAM YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+93.
+Kitap İsmi : Eyvah Ceviz Çatırdıyor (Ortaokul Düzeyi)
+Yazar :  Niccolo Machiavelli
+Yayınevi : UFKA YOLCULUK
+----------------------------------------------------------
+--------------------------------------------------------
+94.
+Kitap İsmi : İyi Aile Yoktur
+Yazar :  Platon(Eflatun) 
+Yayınevi : İTHAKİ YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+95.
+Kitap İsmi : Suzan Defter
+Yazar :  William James
+Yayınevi : CAN YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+96.
+Kitap İsmi : Kraliçeyi Kurtarmak
+Yazar :  Sinan Yaşar
+Yayınevi : GÜNIŞIĞI KİTAPLIĞI
+----------------------------------------------------------
+--------------------------------------------------------
+97.
+Kitap İsmi : Psikolojik İşkence Teknikleri
+Yazar :  Mecit Ömür Öztürk
+Yayınevi : SAHİ KİTAP
+----------------------------------------------------------
+--------------------------------------------------------
+98.
+Kitap İsmi : Çizgili Pijamalı Çocuk
+Yazar :  Kolektif 
+Yayınevi : TUDEM YAYINEVİ
+----------------------------------------------------------
+--------------------------------------------------------
+99.
+Kitap İsmi : İnsan Olmak
+Yazar :  Ramazan Yetgin
+Yayınevi : METİS YAYINLARI
+----------------------------------------------------------
+--------------------------------------------------------
+100.
+Kitap İsmi : Keloğlan Namaz Peşinde
+Yazar :  Fatma Çağdaş Börekçi
+Yayınevi : CEZVE ÇOCUK
+----------------------------------------------------------
